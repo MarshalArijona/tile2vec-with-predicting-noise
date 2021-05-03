@@ -35,12 +35,12 @@ Standard deviation: 0.0326
 MLP
 
 baseline
-Mean accuracy: 66.1000
-Standard deviation: 2.2338
+Mean accuracy: 0.661
+Standard deviation: 0.022338
 
 ns-1.0
-Mean accuracy: 69.6000
-Standard deviation: 2.4166
+Mean accuracy: 0.696
+Standard deviation: 0.024166
 
 s-1.0
 Mean accuracy: 0.6735
