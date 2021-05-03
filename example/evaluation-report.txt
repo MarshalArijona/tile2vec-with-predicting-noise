@@ -1,0 +1,47 @@
+
+n = 10
+-------------------------------------------------------------------------------------------------
+RF
+tiles = 1000
+
+baseline
+mean = 0.7045, 
+std=0.0292
+
+ns-1.0
+Mean accuracy: 0.7120
+Standard deviation: 0.0407
+
+s-1.0
+Mean accuracy: 0.7080
+Standard deviation: 0.0222
+--------------------------------------------------------------------------------------------------------
+linear regression
+tiles = 1000
+
+baseline
+Mean accuracy: 0.6705
+Standard deviation: 0.0263
+
+ns-1.0
+Mean accuracy: 0.6960
+Standard deviation: 0.0301
+
+s-1.0
+Mean accuracy: 0.6930
+Standard deviation: 0.0326
+---------------------------------------------------------------------------------------------------------------
+
+MLP
+
+baseline
+Mean accuracy: 66.1000
+Standard deviation: 2.2338
+
+ns-1.0
+Mean accuracy: 69.6000
+Standard deviation: 2.4166
+
+s-1.0
+Mean accuracy: 0.6735
+Standard deviation: 0.026177
