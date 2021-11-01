@@ -1,4 +1,4 @@
-Link to the paper: [https://www.researchgate.net/publication/354527366_Tile2Vec_with_Predicting_Noise_for_Land_Cover_Classification]
+Link to the paper: https://www.researchgate.net/publication/354527366_Tile2Vec_with_Predicting_Noise_for_Land_Cover_Classification
 
 # Abstract
 Tile2vec has proven to be a good representation learning model in the remote sensing field. The success of the model depends on <img src="https://render.githubusercontent.com/render/math?math=l^2">-norm regularization. However, <img src="https://render.githubusercontent.com/render/math?math=l^2">-norm regularization has the main drawback that affects the regularization. We propose to replace the <img src="https://render.githubusercontent.com/render/math?math=l^2">-norm with regularization with predicting noise framework. We then develop an algorithm to integrate the framework. We evaluate the model by using it as a feature extractor on the land cover classification task. The result shows that our proposed model outperforms all the baseline models.
